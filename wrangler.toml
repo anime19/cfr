@@ -1,0 +1,6 @@
+name = "animesh.oneanimesh.workers.dev"
+type = "webpack"
+account_id = "b41702b9ae597272b115cc173c48ebe9"
+workers_dev = true
+route = ""
+zone_id = ""
